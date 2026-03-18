@@ -3,7 +3,7 @@
 ## Overview
 JudgeJam is an AI-assisted hackathon judging platform designed to streamline the evaluation process for large-scale hackathons. Traditional judging requires significant manual coordination and can be time consuming for organizers and judges. JudgeJam automates parts of this workflow by collecting project submissions, analyzing presentation content, and generating structured evaluations.
 
-The platform uses machine learning and natural language processing to help organizers process submissions more efficiently while still supporting human decision-making.This project was built to explore how AI systems can assist with decision workflows in event management environments such as hackathons.
+The platform uses machine learning and natural language processing to help judges process submissions more efficiently while still supporting human decision-making. This project was built to explore how AI systems can assist with decision workflows in event management environments such as hackathons.
 
 ## Features
 
@@ -46,6 +46,3 @@ The platform uses machine learning and natural language processing to help organ
 - OpenAI API
 - GitHub API
 - Google Cloud
-
-
-
